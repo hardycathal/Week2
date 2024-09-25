@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Week2CathalHardyApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(Week2CathalHardyApplication.class, args);
     }
 
